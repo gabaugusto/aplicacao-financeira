@@ -4,6 +4,4 @@ Este é um projeto em construção sobre uma pltaforma sobre educação financei
 
 ## Fase 01 - Protótipo. 
 
-![Protótipo muito legal](iPhone1.png)
-
-![Exemplo](unnamed.jpg)
+![Exemplo de Descrição](iPhone1.png)
